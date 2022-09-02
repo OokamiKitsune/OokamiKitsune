@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OokamiKitsune
 - 👀 I’m interested in ... 
-- 🌱 I’m currently learning ... Node.js
+- 🌱 I’m currently learning ... Python and Rust
 - 💞️ I’m looking to collaborate on ... Crypto/Web3 Projects
 - 📫 How to reach me ...
 
