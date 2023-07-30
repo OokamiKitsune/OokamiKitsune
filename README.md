@@ -30,6 +30,8 @@ I am a computer science 🖥️ guru who loves building, contributing, and manag
 <a href="https://solana.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" width="36" height="36" alt="Solana" /></a>
 </p>
 
+Perfectionism is the enemy of done. Don't let anyone try to tell you otherwise.
+
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/OokamiKitsune" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
