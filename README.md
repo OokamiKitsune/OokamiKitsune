@@ -8,7 +8,7 @@ I am a computer science 🖥️ guru who loves building, contributing, and manag
 
 * 🌍  I'm based in Chicago
 * 🚀  I'm currently working on [Athena AI](http://athena-ai-xi.vercel.app/)
-* 🧠  I'm learning JS, Rust, and Python
+* 🧠  I'm learning JS/TS (at same time), Rust, and Python
 * 🤝  I'm open to collaborating on anything with the end goal of completing it.
 * ⚡  I also enjoy solving business issues with code, DevOps, and project management. I pioneered and built a team with the largest scalable department for the world's largest crypto kiosk network.
 
