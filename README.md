@@ -7,7 +7,7 @@ Software Engineer | Web Developer | Entrepreneur
 I am a computer science 🖥️ guru who loves building, contributing, and managing great projects with great teams. I am big into Web3 and Blockchain protocols and work in the crypto/web3 space. I enjoy the backend a bit more than the front end. I also like AI and business solutions that are built for the future.
 
 * 🌍  I'm based in Chicago
-* 🚀  I'm currently working on [Athena AI](http://athena-ai-xi.vercel.app/)
+* 🚀  I'm currently working on [AR Gallery]
 * 🧠  I'm learning JS/TS (at the same time), Rust, and Python
 * 🤝  I'm open to collaborating on anything with the end goal of completing it at least as a MVP.
 * ⚡  I also enjoy solving business issues with code, DevOps, and project management. I pioneered and built a team with the largest scalable department for the world's largest crypto kiosk network.
