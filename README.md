@@ -4,10 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer | Web Developer | Entrepreneur
 -------------------------------------------------
 
-I am a computer science 🖥️ guru who loves building, contributing, and managing great projects with great teams. I am big into Web3 and Blockchain protocols and work in the crypto/web3 space. I enjoy the backend a bit more than the front end. I also like AI and business solutions that are built for the future.
+I am a computer science and systems engineer 🖥️ guru who loves building, contributing, and managing great projects with great teams. I am big into Web3 and Blockchain protocols and work in the crypto/web3 and web2 space. I enjoy the backend and frontend equally allthough frontend is a bit finicky but forgiving. lol. I also like AI and business solutions that are built for the future. 
+
+I dont keep old dead systems alive, and wont subject myself to dead end ideas and projects. It either works or doesnt, scales or becomes a problem, improves or gets left behind, is a good idea or is a pipe dream. 
 
 * 🌍  I'm based in Chicago
-* 🚀  I'm currently working on [AR Gallery]
+* 🚀  I'm currently working on Contracts
 * 🧠  I'm learning JS/TS (at the same time), Rust, and Python
 * 🤝  I'm open to collaborating on anything with the end goal of completing it at least as a MVP.
 * ⚡  I also enjoy solving business issues with code, DevOps, and project management. I pioneered and built a team with the largest scalable department for the world's largest crypto kiosk network.
